@@ -1,4 +1,6 @@
-# Sprint Challenge for RDBMS and SQL
+# 0096_lsw12f_sprint_challenge_rdbms
+
+## Sprint Challenge for RDBMS and SQL
 
 The purpose of this exercise is to get you used to being quizzed on _interview questions_ commonly asked about Relational Database Management Systems and SQL.
 
